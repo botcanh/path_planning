@@ -1,0 +1,27 @@
+[0.468s] Invoking command in '/home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/src/maze_bot': PYTHONPATH=/home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/build/maze_bot/prefix_override:/home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/install/maze_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/maze_bot build --build-base /home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/build/maze_bot/build install --record /home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/build/maze_bot/install.log --single-version-externally-managed install_data
+[0.630s] running egg_info
+[0.631s] writing ../../build/maze_bot/maze_bot.egg-info/PKG-INFO
+[0.631s] writing dependency_links to ../../build/maze_bot/maze_bot.egg-info/dependency_links.txt
+[0.631s] writing entry points to ../../build/maze_bot/maze_bot.egg-info/entry_points.txt
+[0.631s] writing requirements to ../../build/maze_bot/maze_bot.egg-info/requires.txt
+[0.631s] writing top-level names to ../../build/maze_bot/maze_bot.egg-info/top_level.txt
+[0.634s] reading manifest file '../../build/maze_bot/maze_bot.egg-info/SOURCES.txt'
+[0.634s] writing manifest file '../../build/maze_bot/maze_bot.egg-info/SOURCES.txt'
+[0.635s] running build
+[0.635s] running build_py
+[0.635s] copying maze_bot/maze_solver.py -> /home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/build/maze_bot/build/lib/maze_bot
+[0.636s] running install
+[0.636s] running install_lib
+[0.637s] copying /home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/build/maze_bot/build/lib/maze_bot/maze_solver.py -> /home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/install/maze_bot/lib/python3.10/site-packages/maze_bot
+[0.638s] byte-compiling /home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/install/maze_bot/lib/python3.10/site-packages/maze_bot/maze_solver.py to maze_solver.cpython-310.pyc
+[0.639s] running install_data
+[0.640s] running install_egg_info
+[0.641s] removing '/home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/install/maze_bot/lib/python3.10/site-packages/maze_bot-0.0.0-py3.10.egg-info' (and everything under it)
+[0.641s] Copying ../../build/maze_bot/maze_bot.egg-info to /home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/install/maze_bot/lib/python3.10/site-packages/maze_bot-0.0.0-py3.10.egg-info
+[0.642s] running install_scripts
+[0.658s] Installing driving_node script to /home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/install/maze_bot/lib/maze_bot
+[0.658s] Installing go_to_goal script to /home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/install/maze_bot/lib/maze_bot
+[0.658s] Installing maze_solver script to /home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/install/maze_bot/lib/maze_bot
+[0.658s] Installing video_recorder script to /home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/install/maze_bot/lib/maze_bot
+[0.658s] writing list of installed files to '/home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/build/maze_bot/install.log'
+[0.680s] Invoked command in '/home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/src/maze_bot' returned '0': PYTHONPATH=/home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/build/maze_bot/prefix_override:/home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/install/maze_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/maze_bot build --build-base /home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/build/maze_bot/build install --record /home/botcanh/ROS2-Path-Planning-and-Maze-Solving/path_planning_ws/build/maze_bot/install.log --single-version-externally-managed install_data
